@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507221721XQWUMG</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605072217217IJH7T</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Producto final </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Enlace eXeLearning último módulo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Alicia Serrano  Cereto</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje destinada al uso de la tecnología para una alumna en su implementación en un SAAC, para el nivel de 5 años de Educación Infantil.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778183371503</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>c2c050b4-f5c4-4b0a-830b-badabd95f41c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SdA: Me comunico con ayuda de la tecnología</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SdA: Me comunico con ayuda de la tecnología</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SdA: Me comunico con ayuda de la tecnología</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>c2c050b4-f5c4-4b0a-830b-badabd95f41c</odePageId>
+      <odeBlockId>block-1778177972508-cqji3kno9</odeBlockId>
+      <blockName>Me comunico con ayuda de la tecnología</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>c2c050b4-f5c4-4b0a-830b-badabd95f41c</odePageId>
+          <odeBlockId>block-1778177972508-cqji3kno9</odeBlockId>
+          <odeIdeviceId>idevice-1778177972504-2ohzh6xw7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenidos/as al proyecto “Me comunico con ayuda de la tecnología”.</p>
+<p>Esta Situación de Aprendizaje está dirigida al alumnado de Educación Infantil, de forma concreta a una alumna del nivel de cinco años, y se centra en el desarrollo de la comunicación funcional mediante el uso de herramientas digitales accesibles e inclusivas.</p>
+<p>A través de diferentes actividades y rutinas de aula, el alumnado trabajará el uso de comunicadores con pictogramas para favorecer la expresión de necesidades, la interacción social, la autonomía y la participación activa en el entorno escolar.</p>
+<p>El proyecto parte de un enfoque inclusivo y adaptado a las necesidades del alumnado, especialmente de una alumna con Necesidades Específicas de Apoyo Educativo asociadas al Trastorno del Espectro Autista (TEA), fomentando al mismo tiempo el desarrollo de la competencia digital desde edades tempranas.</p>
+<p>En este apartado se presenta la descripción general del proyecto, su justificación pedagógica, los objetivos planteados y el contexto educativo en el que se llevará a cabo.<br /><br /><strong>TÍTULO</strong> “Me comunico con ayuda de la tecnología”.</p>
+<p><br /><strong>CENTRO DE INTERÉS</strong>: El proyecto se centra en el desarrollo de la comunicación funcional para el alumnado, en este caso alumna que presenta NEE asociadas a Autismo (TEA), mediante el uso de herramientas digitales, concretamente comunicadores con pictogramas. Se aborda la mejora de la interacción, la expresión de necesidades, la reducción de malestar y frustraciones por la falta de comunicación, así como la participación en el aula desde un enfoque inclusivo.<br /></p>
+<p><strong>NIVEL AL QUE VA DIRIGIDO</strong>: El nivel será Educación Infantil, concretamente cinco años, con especial atención al alumnado con Necesidades Específicas de Apoyo Educativo, de forma concreta con una alumna del grupo.<br /></p>
+<p><strong>MATERIAS IMPLICADAS</strong>: Se plantea desde un enfoque globalizado, propio de la Educación Infantil, sin embargo si tuviéramos que enmarcarlo en un área sería el de Comunicación y Representación de la realidad.</p>
+<p><strong>IDIOMA: </strong>Castellano.<br /></p>
+<p><strong>DESCRIPCIÓN GENERAL: </strong>A través de este proyecto, se pretende que el alumnado desarrolle habilidades básicas de comunicación utilizando un comunicador digital o pictogramas. Se plantea con la intención de integrarlas en<br />las rutinas de aula (asamblea, trabajo en mesa, rincones de juegos, petición de necesidades y gustos, desayuno, recreo, relajación, momentos de juegos y vuelta a casa), favoreciendo el uso funcional en un contexto real y diario para la alumna.<br />Se llevará a cabo en coordinación con la tutora del aula, así como con la maestra de Audición y Lenguaje, y las compañeras que son Personal Técnico de Integración Social que también llevan a cabo la intervención educativa con la alumna. Es importante que el alumnado del grupo sepa y conozca las características del uso del comunicador, identificando                      <br />pictogramas, asociándolos a imágenes o acciones/necesidades y utilizarlos para comunicarse de forma progresiva.<br />Así mismo, se fomentará el desarrollo de la competencia digital básica, enseñando el uso adecuado del dispositivo, así como<br />herramientas para su manejo y resolución de pequeños problemas de manejo.<br /></p>
+<p><strong>JUSTIFICACIÓN: </strong>Este proyecto surge a partir de la reflexión sobre la propia práctica docente, en la que se detectaron dificultades en la implementación de herramientas digitales de comunicación, especialmente en la relación del uso<br />autónomo del comunicador mediante la tablet. El análisis realizado evidenció la necesidad de una mayor estructuración y de una enseñanza progresiva y adaptada al aprendizaje de la alumna y su ritmo. Se identificó por otro lado la necesidad de desarrollar la competencia digital del alumnado, adaptándola a su nivel madurativo y sus características individuales.<br />Por ello, se diseña esta propuesta con el objetivo de mejorar la intervención educativa, favoreciendo un uso eficaz, accesible e inclusivo de la tecnología aplicada al aula. Se pretende, a su vez, dar respuesta a posibles situaciones de  aprendizaje derivadas del uso de herramientas de aprendizaje, planificando estrategias claras y adaptadas.<br />Este enfoque permite no solo mejorar la comunicación del alumnado, sino a promover su autonomía, su bienestar, su<br />participación</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778177972504-2ohzh6xw7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenidos/as al proyecto “Me comunico con ayuda de la tecnología”.</p>\n<p>Esta Situación de Aprendizaje está dirigida al alumnado de Educación Infantil, de forma concreta a una alumna del nivel de cinco años, y se centra en el desarrollo de la comunicación funcional mediante el uso de herramientas digitales accesibles e inclusivas.</p>\n<p>A través de diferentes actividades y rutinas de aula, el alumnado trabajará el uso de comunicadores con pictogramas para favorecer la expresión de necesidades, la interacción social, la autonomía y la participación activa en el entorno escolar.</p>\n<p>El proyecto parte de un enfoque inclusivo y adaptado a las necesidades del alumnado, especialmente de una alumna con Necesidades Específicas de Apoyo Educativo asociadas al Trastorno del Espectro Autista (TEA), fomentando al mismo tiempo el desarrollo de la competencia digital desde edades tempranas.</p>\n<p>En este apartado se presenta la descripción general del proyecto, su justificación pedagógica, los objetivos planteados y el contexto educativo en el que se llevará a cabo.<br /><br /><strong>TÍTULO</strong> “Me comunico con ayuda de la tecnología”.</p>\n<p><br /><strong>CENTRO DE INTERÉS</strong>: El proyecto se centra en el desarrollo de la comunicación funcional para el alumnado, en este caso alumna que presenta NEE asociadas a Autismo (TEA), mediante el uso de herramientas digitales, concretamente comunicadores con pictogramas. Se aborda la mejora de la interacción, la expresión de necesidades, la reducción de malestar y frustraciones por la falta de comunicación, así como la participación en el aula desde un enfoque inclusivo.<br /></p>\n<p><strong>NIVEL AL QUE VA DIRIGIDO</strong>: El nivel será Educación Infantil, concretamente cinco años, con especial atención al alumnado con Necesidades Específicas de Apoyo Educativo, de forma concreta con una alumna del grupo.<br /></p>\n<p><strong>MATERIAS IMPLICADAS</strong>: Se plantea desde un enfoque globalizado, propio de la Educación Infantil, sin embargo si tuviéramos que enmarcarlo en un área sería el de Comunicación y Representación de la realidad.</p>\n<p><strong>IDIOMA: </strong>Castellano.<br /></p>\n<p><strong>DESCRIPCIÓN GENERAL: </strong>A través de este proyecto, se pretende que el alumnado desarrolle habilidades básicas de comunicación utilizando un comunicador digital o pictogramas. Se plantea con la intención de integrarlas en<br />las rutinas de aula (asamblea, trabajo en mesa, rincones de juegos, petición de necesidades y gustos, desayuno, recreo, relajación, momentos de juegos y vuelta a casa), favoreciendo el uso funcional en un contexto real y diario para la alumna.<br />Se llevará a cabo en coordinación con la tutora del aula, así como con la maestra de Audición y Lenguaje, y las compañeras que son Personal Técnico de Integración Social que también llevan a cabo la intervención educativa con la alumna. Es importante que el alumnado del grupo sepa y conozca las características del uso del comunicador, identificando                      <br />pictogramas, asociándolos a imágenes o acciones/necesidades y utilizarlos para comunicarse de forma progresiva.<br />Así mismo, se fomentará el desarrollo de la competencia digital básica, enseñando el uso adecuado del dispositivo, así como<br />herramientas para su manejo y resolución de pequeños problemas de manejo.<br /></p>\n<p><strong>JUSTIFICACIÓN: </strong>Este proyecto surge a partir de la reflexión sobre la propia práctica docente, en la que se detectaron dificultades en la implementación de herramientas digitales de comunicación, especialmente en la relación del uso<br />autónomo del comunicador mediante la tablet. El análisis realizado evidenció la necesidad de una mayor estructuración y de una enseñanza progresiva y adaptada al aprendizaje de la alumna y su ritmo. Se identificó por otro lado la necesidad de desarrollar la competencia digital del alumnado, adaptándola a su nivel madurativo y sus características individuales.<br />Por ello, se diseña esta propuesta con el objetivo de mejorar la intervención educativa, favoreciendo un uso eficaz, accesible e inclusivo de la tecnología aplicada al aula. Se pretende, a su vez, dar respuesta a posibles situaciones de  aprendizaje derivadas del uso de herramientas de aprendizaje, planificando estrategias claras y adaptadas.<br />Este enfoque permite no solo mejorar la comunicación del alumnado, sino a promover su autonomía, su bienestar, su<br />participación</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778180409202-y0zmhbm4y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778180409202-y0zmhbm4y</odePageId>
+      <odeBlockId>block-1778180421293-r7znpe4gd</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778180409202-y0zmhbm4y</odePageId>
+          <odeBlockId>block-1778180421293-r7znpe4gd</odeBlockId>
+          <odeIdeviceId>idevice-1778180421290-vufrekhwt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 99.9159%; height: 981px;">
+<tbody>
+<tr style="height: 129px;">
+<td style="width: 16.8671%; height: 129px; text-align: center;"><strong>TAREA</strong></td>
+<td style="width: 21.1538%; height: 129px; text-align: center;"><strong>CRITERIO DE EVALUACIÓN </strong></td>
+<td style="width: 19.7588%; height: 129px; text-align: center;"><strong>AGRUPAMIEN</strong><strong>TO </strong></td>
+<td style="width: 20.5918%; height: 129px; text-align: center;"><strong>TIEMPO </strong><br /><strong>APROXIMAD</strong><strong>O</strong></td>
+<td style="width: 21.6197%; height: 129px; text-align: center;"><strong>HERRAMIENTA QUE SE </strong><br /><strong>LE SUGERIRÁ AL </strong><br /><strong>ALUMNADO </strong></td>
+</tr>
+<tr style="height: 297px;">
+<td style="width: 16.8671%; height: 297px; text-align: center;">Presentación de pictogramas <br />básicos (necesidades)  </td>
+<td style="width: 21.1538%; height: 297px; text-align: center;">Expresar necesidades, <br />emociones y deseos mediante <br />diferentes lenguajes y formas de <br />comunicación, utilizando <br />apoyos visuales  </td>
+<td style="width: 19.7588%; height: 297px; text-align: center;">Gran grupo  </td>
+<td style="width: 20.5918%; height: 297px; text-align: center;">1 sesión o <br />varias </td>
+<td style="width: 21.6197%; height: 297px; text-align: center;">Canva + <br />pictogramas </td>
+</tr>
+<tr style="height: 249px;">
+<td style="width: 16.8671%; height: 249px; text-align: center;">Uso del comunicador para <br />pedir necesidades (agua, <br />baño…) </td>
+<td style="width: 21.1538%; height: 249px; text-align: center;">Utilizar estrategias de <br />comunicación para interactuar <br />con los demás en situaciones <br />cotidianas  </td>
+<td style="width: 19.7588%; height: 249px; text-align: center;">Individual  </td>
+<td style="width: 20.5918%; height: 249px; text-align: center;">15 min diarios, <br />aprovechand<br />o las <br />necesidades <br />reales de la <br />alumna en <br />cualquier <br />momento de <br />la jornada </td>
+<td style="width: 21.6197%; height: 249px; text-align: center;">Tablet + Canva / <br />AstericsGrid </td>
+</tr>
+<tr style="height: 273px;">
+<td style="width: 16.8671%; height: 273px; text-align: center;">Trabajo de rutinas mediante <br />apoyos visuales  </td>
+<td style="width: 21.1538%; height: 273px; text-align: center;">Comprender y anticipar <br />situaciones de la vida cotidiana <br />mediante el uso de secuencias <br />temporales y apoyos visuales </td>
+<td style="width: 19.7588%; height: 273px; text-align: center;">Gran grupo </td>
+<td style="width: 20.5918%; height: 273px; text-align: center;">10 min diarios  </td>
+<td style="width: 21.6197%; height: 273px; text-align: center;">Canva + panel visual con <br />pictogramas de páginas <br />web como ARASAAC </td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 16.8671%; height: 33px; text-align: center;">Identificación y expresión de <br />emociones con pictogramas  </td>
+<td style="width: 21.1538%; height: 33px; text-align: center;">Identificar y expresar emociones <br />propias y de los demás <br />utilizando diferentes formas de <br />comunicación  </td>
+<td style="width: 19.7588%; height: 33px; text-align: center;">Pequeño <br />grupo / <br />Individual </td>
+<td style="width: 20.5918%; height: 33px; text-align: center;">1 sesión o <br />varias <br />sesiones </td>
+<td style="width: 21.6197%; height: 33px; text-align: center;">Canva + pictogramas </td>
+</tr>
+<tr>
+<td style="width: 16.8671%; text-align: center;">Uso guiado de la tablet </td>
+<td style="width: 21.1538%; text-align: center;">Iniciarse en el uso responsable y <br />seguro de herramientas <br />digitales como medio de <br />aprendizaje  </td>
+<td style="width: 19.7588%; text-align: center;">Individual </td>
+<td style="width: 20.5918%; text-align: center;">10 min  en <br />distintos <br />momentos de <br />la jornada </td>
+<td style="width: 21.6197%; text-align: center;">Tablet</td>
+</tr>
+<tr>
+<td style="width: 16.8671%; text-align: center;">Participación en actividades <br />con apoyos visuales  </td>
+<td style="width: 21.1538%; text-align: center;">Participar activamente en <br />situaciones de comunicación y <br />aprendizaje compartido, <br />respetando normas básicas de <br />interacción </td>
+<td style="width: 19.7588%; text-align: center;"> <br />Gran grupo </td>
+<td style="width: 20.5918%; text-align: center;">1 sesión </td>
+<td style="width: 21.6197%; text-align: center;">Canva + pictogramas de <br />ARASAAC y dibujos del <br />propio Canva</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778180421290-vufrekhwt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 99.9159%; height: 981px;\">\n<tbody>\n<tr style=\"height: 129px;\">\n<td style=\"width: 16.8671%; height: 129px; text-align: center;\"><strong>TAREA</strong></td>\n<td style=\"width: 21.1538%; height: 129px; text-align: center;\"><strong>CRITERIO DE EVALUACIÓN </strong></td>\n<td style=\"width: 19.7588%; height: 129px; text-align: center;\"><strong>AGRUPAMIEN</strong><strong>TO </strong></td>\n<td style=\"width: 20.5918%; height: 129px; text-align: center;\"><strong>TIEMPO </strong><br /><strong>APROXIMAD</strong><strong>O</strong></td>\n<td style=\"width: 21.6197%; height: 129px; text-align: center;\"><strong>HERRAMIENTA QUE SE </strong><br /><strong>LE SUGERIRÁ AL </strong><br /><strong>ALUMNADO </strong></td>\n</tr>\n<tr style=\"height: 297px;\">\n<td style=\"width: 16.8671%; height: 297px; text-align: center;\">Presentación de pictogramas <br />básicos (necesidades)  </td>\n<td style=\"width: 21.1538%; height: 297px; text-align: center;\">Expresar necesidades, <br />emociones y deseos mediante <br />diferentes lenguajes y formas de <br />comunicación, utilizando <br />apoyos visuales  </td>\n<td style=\"width: 19.7588%; height: 297px; text-align: center;\">Gran grupo  </td>\n<td style=\"width: 20.5918%; height: 297px; text-align: center;\">1 sesión o <br />varias </td>\n<td style=\"width: 21.6197%; height: 297px; text-align: center;\">Canva + <br />pictogramas </td>\n</tr>\n<tr style=\"height: 249px;\">\n<td style=\"width: 16.8671%; height: 249px; text-align: center;\">Uso del comunicador para <br />pedir necesidades (agua, <br />baño…) </td>\n<td style=\"width: 21.1538%; height: 249px; text-align: center;\">Utilizar estrategias de <br />comunicación para interactuar <br />con los demás en situaciones <br />cotidianas  </td>\n<td style=\"width: 19.7588%; height: 249px; text-align: center;\">Individual  </td>\n<td style=\"width: 20.5918%; height: 249px; text-align: center;\">15 min diarios, <br />aprovechand<br />o las <br />necesidades <br />reales de la <br />alumna en <br />cualquier <br />momento de <br />la jornada </td>\n<td style=\"width: 21.6197%; height: 249px; text-align: center;\">Tablet + Canva / <br />AstericsGrid </td>\n</tr>\n<tr style=\"height: 273px;\">\n<td style=\"width: 16.8671%; height: 273px; text-align: center;\">Trabajo de rutinas mediante <br />apoyos visuales  </td>\n<td style=\"width: 21.1538%; height: 273px; text-align: center;\">Comprender y anticipar <br />situaciones de la vida cotidiana <br />mediante el uso de secuencias <br />temporales y apoyos visuales </td>\n<td style=\"width: 19.7588%; height: 273px; text-align: center;\">Gran grupo </td>\n<td style=\"width: 20.5918%; height: 273px; text-align: center;\">10 min diarios  </td>\n<td style=\"width: 21.6197%; height: 273px; text-align: center;\">Canva + panel visual con <br />pictogramas de páginas <br />web como ARASAAC </td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 16.8671%; height: 33px; text-align: center;\">Identificación y expresión de <br />emociones con pictogramas  </td>\n<td style=\"width: 21.1538%; height: 33px; text-align: center;\">Identificar y expresar emociones <br />propias y de los demás <br />utilizando diferentes formas de <br />comunicación  </td>\n<td style=\"width: 19.7588%; height: 33px; text-align: center;\">Pequeño <br />grupo / <br />Individual </td>\n<td style=\"width: 20.5918%; height: 33px; text-align: center;\">1 sesión o <br />varias <br />sesiones </td>\n<td style=\"width: 21.6197%; height: 33px; text-align: center;\">Canva + pictogramas </td>\n</tr>\n<tr>\n<td style=\"width: 16.8671%; text-align: center;\">Uso guiado de la tablet </td>\n<td style=\"width: 21.1538%; text-align: center;\">Iniciarse en el uso responsable y <br />seguro de herramientas <br />digitales como medio de <br />aprendizaje  </td>\n<td style=\"width: 19.7588%; text-align: center;\">Individual </td>\n<td style=\"width: 20.5918%; text-align: center;\">10 min  en <br />distintos <br />momentos de <br />la jornada </td>\n<td style=\"width: 21.6197%; text-align: center;\">Tablet</td>\n</tr>\n<tr>\n<td style=\"width: 16.8671%; text-align: center;\">Participación en actividades <br />con apoyos visuales  </td>\n<td style=\"width: 21.1538%; text-align: center;\">Participar activamente en <br />situaciones de comunicación y <br />aprendizaje compartido, <br />respetando normas básicas de <br />interacción </td>\n<td style=\"width: 19.7588%; text-align: center;\"> <br />Gran grupo </td>\n<td style=\"width: 20.5918%; text-align: center;\">1 sesión </td>\n<td style=\"width: 21.6197%; text-align: center;\">Canva + pictogramas de <br />ARASAAC y dibujos del <br />propio Canva</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778180409202-y0zmhbm4y</odePageId>
+      <odeBlockId>block-1778180779424-lykctgvdv</odeBlockId>
+      <blockName>¿Cómo podrían solucionarse los problemas técnicos?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778180409202-y0zmhbm4y</odePageId>
+          <odeBlockId>block-1778180779424-lykctgvdv</odeBlockId>
+          <odeIdeviceId>idevice-1778180779421-f7ckyrfst</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La solución de problemas técnicos en el aula se abordará con planificación y enseñanza gradual del uso de herramientas  digitales. <br /> Primero, identificaremos posibles problemas. Verificaremos que los dispositivos funcionen bien y que los materiales estén  listos. Enseñaré en la medida de los posible,  a resolver pequeños problemas, como usar la tablet o seleccionar  pictogramas de forma funcional que apuesten por una comunicación real en un principio de necesidades básicas. <br />Fomentaremos que la alumna sea lo más independiente posible, ya que la comunicación es la base para poder entender el  mundo, para evitar las frustraciones y para conectarse con el medio. Utilizarán ayudas visuales que faciliten el uso de la  tecnología. Consideraremos alternativas sin tecnología, como materiales manipulables o pictogramas impresos. Así, el  aprendizaje comenzará en caso de fallo técnico. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778180779421-f7ckyrfst","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La solución de problemas técnicos en el aula se abordará con planificación y enseñanza gradual del uso de herramientas  digitales. <br /> Primero, identificaremos posibles problemas. Verificaremos que los dispositivos funcionen bien y que los materiales estén  listos. Enseñaré en la medida de los posible,  a resolver pequeños problemas, como usar la tablet o seleccionar  pictogramas de forma funcional que apuesten por una comunicación real en un principio de necesidades básicas. <br />Fomentaremos que la alumna sea lo más independiente posible, ya que la comunicación es la base para poder entender el  mundo, para evitar las frustraciones y para conectarse con el medio. Utilizarán ayudas visuales que faciliten el uso de la  tecnología. Consideraremos alternativas sin tecnología, como materiales manipulables o pictogramas impresos. Así, el  aprendizaje comenzará en caso de fallo técnico. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778180119578-vjdaojd75</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal/secuenciación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal/secuenciación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Línea temporal/secuenciación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778180119578-vjdaojd75</odePageId>
+      <odeBlockId>block-1778180122597-evqrbla16</odeBlockId>
+      <blockName>Organización de las sesiones</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778180119578-vjdaojd75</odePageId>
+          <odeBlockId>block-1778180122597-evqrbla16</odeBlockId>
+          <odeIdeviceId>idevice-1778180122595-t0vidjflh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La siguiente línea temporal recoge la organización de las sesiones y actividades planteadas dentro de esta Situación de Aprendizaje.</p>
+<p>Las propuestas se desarrollan de forma progresiva y adaptada a las necesidades del alumnado, combinando momentos de trabajo individual, pequeño grupo y gran grupo, con el objetivo de favorecer la comunicación funcional, la participación y el uso de apoyos visuales en diferentes contextos del aula.</p>
+<p>A través de estas actividades, el alumnado irá descubriendo el significado de los pictogramas, aprendiendo a expresar necesidades, trabajar rutinas, reconocer emociones y utilizar herramientas digitales de forma funcional y segura.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778180122595-t0vidjflh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La siguiente línea temporal recoge la organización de las sesiones y actividades planteadas dentro de esta Situación de Aprendizaje.</p>\n<p>Las propuestas se desarrollan de forma progresiva y adaptada a las necesidades del alumnado, combinando momentos de trabajo individual, pequeño grupo y gran grupo, con el objetivo de favorecer la comunicación funcional, la participación y el uso de apoyos visuales en diferentes contextos del aula.</p>\n<p>A través de estas actividades, el alumnado irá descubriendo el significado de los pictogramas, aprendiendo a expresar necesidades, trabajar rutinas, reconocer emociones y utilizar herramientas digitales de forma funcional y segura.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778180119578-vjdaojd75</odePageId>
+      <odeBlockId>block-1778180263381-23pvxotth</odeBlockId>
+      <blockName>Organización y planificación de las sesiones</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778180119578-vjdaojd75</odePageId>
+          <odeBlockId>block-1778180263381-23pvxotth</odeBlockId>
+          <odeIdeviceId>idevice-1778180263379-4lcqfhvbt</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778180263379-4lcqfhvbt" title="" href="{{context_path}}/content/resources/Módulo 7. _page-0001.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Módulo 7. _page-0001.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778180263379-4lcqfhvbt","img_1":{"img":"{{context_path}}/content/resources/Módulo 7. _page-0001.jpg","thumbnail":"{{context_path}}/content/resources/Módulo 7. _page-0001.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778178948144-c4drzltgp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Información dirigida al alumnado sobre protección de datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información dirigida al alumnado sobre protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Información dirigida al alumnado sobre protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778178948144-c4drzltgp</odePageId>
+      <odeBlockId>block-1778179299691-q3q7wus0b</odeBlockId>
+      <blockName>Uso seguro de la tecnología</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778178948144-c4drzltgp</odePageId>
+          <odeBlockId>block-1778179299691-q3q7wus0b</odeBlockId>
+          <odeIdeviceId>idevice-1778179299688-r0gmfunvp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El uso de las herramientas digitales en el aula debe realizarse siempre de forma segura, responsable y adaptada a la edad del alumnado.</p>
+<p>En esta Situación de Aprendizaje se trabajará el uso básico y funcional de la tecnología, especialmente de dispositivos como la tablet y los comunicadores con pictogramas, fomentando hábitos adecuados de cuidado, respeto y protección de la información personal.</p>
+<p>A través de apoyos visuales e instrucciones sencillas, el alumnado aprenderá normas básicas relacionadas con el uso seguro de la tecnología, como pedir ayuda a una persona adulta, cuidar los dispositivos, respetar las normas de uso y proteger sus datos personales.</p>
+<p>El siguiente recurso visual ha sido diseñado para facilitar la comprensión de estas pautas de manera accesible, clara y adaptada al nivel de Educación Infantil.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778179299688-r0gmfunvp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El uso de las herramientas digitales en el aula debe realizarse siempre de forma segura, responsable y adaptada a la edad del alumnado.</p>\n<p>En esta Situación de Aprendizaje se trabajará el uso básico y funcional de la tecnología, especialmente de dispositivos como la tablet y los comunicadores con pictogramas, fomentando hábitos adecuados de cuidado, respeto y protección de la información personal.</p>\n<p>A través de apoyos visuales e instrucciones sencillas, el alumnado aprenderá normas básicas relacionadas con el uso seguro de la tecnología, como pedir ayuda a una persona adulta, cuidar los dispositivos, respetar las normas de uso y proteger sus datos personales.</p>\n<p>El siguiente recurso visual ha sido diseñado para facilitar la comprensión de estas pautas de manera accesible, clara y adaptada al nivel de Educación Infantil.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778178948144-c4drzltgp</odePageId>
+      <odeBlockId>block-1778179101048-xvm6salrj</odeBlockId>
+      <blockName>Infografía</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778178948144-c4drzltgp</odePageId>
+          <odeBlockId>block-1778179101048-xvm6salrj</odeBlockId>
+          <odeIdeviceId>idevice-1778179101045-blug58m6s</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778179101045-blug58m6s" title="" href="{{context_path}}/content/resources/Uso seguro de la tecnología.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Uso seguro de la tecnología.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778179101045-blug58m6s","img_0":{"img":"{{context_path}}/content/resources/Uso seguro de la tecnología.jpg","thumbnail":"{{context_path}}/content/resources/Uso seguro de la tecnología.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778178948144-c4drzltgp</odePageId>
+      <odeBlockId>block-1778179424129-0a1x3wob4</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778178948144-c4drzltgp</odePageId>
+          <odeBlockId>block-1778179424129-0a1x3wob4</odeBlockId>
+          <odeIdeviceId>idevice-1778179424127-zx439fp4e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este trabajo contribuye al desarrollo de la competencia digital desde un enfoque inclusivo y seguro, favoreciendo el aprendizaje progresivo y el uso responsable de la tecnología en el entorno escolar.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778179424127-zx439fp4e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este trabajo contribuye al desarrollo de la competencia digital desde un enfoque inclusivo y seguro, favoreciendo el aprendizaje progresivo y el uso responsable de la tecnología en el entorno escolar.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778179551008-nbrbf992t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación de la herramienta para el producto final</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación de la herramienta para el producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778179551008-nbrbf992t</odePageId>
+      <odeBlockId>block-1778179553273-e4gzubjmv</odeBlockId>
+      <blockName>Herramienta para el desarrollo de esta Situación de Aprendizaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778179551008-nbrbf992t</odePageId>
+          <odeBlockId>block-1778179553273-e4gzubjmv</odeBlockId>
+          <odeIdeviceId>idevice-1778179553271-xjxan9frn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el desarrollo del producto final de mi situación de aprendizaje, centrada en la mejora de la comunicación funcional en alumnado con necesidades específicas de apoyo educativo, propongo el uso de la herramienta digital <strong>Canva.</strong></p>
+<p>El objetivo principal de esta herramienta es crear apoyos visuales como rutinas, secuencias, historias sociales y tableros de comunicación que faciliten la comprensión y expresión del alumnado con dificultades en el lenguaje oral, favoreciendo así su participación activa en el aula.</p>
+<p>He seleccionado esta herramienta por su gran versatilidad, ya que permite diseñar materiales visuales de forma sencilla e intuitiva, adaptándolos a las necesidades concretas del alumnado. Además, ofrece múltiples recursos gráficos (iconos, imágenes, pictogramas) que favorecen la accesibilidad cognitiva.</p>
+<p>En cuanto al contexto, se trata de una herramienta accesible en el centro, que puede utilizarse tanto por el profesorado como por el propio alumnado en función de su nivel. En mi caso, su uso se plantea principalmente como herramienta de creación docente, aunque también puede utilizarse de forma guiada con el alumnado.</p>
+<p>Por otro lado, considero que es especialmente adecuada para Educación Infantil y alumnado con necesidades específicas, ya que permite estructurar la información de manera visual, facilitando la anticipación, la comprensión de rutinas y la comunicación funcional.</p>
+<p>Esta propuesta surge a partir de la reflexión sobre mi práctica docente, en la que detecté la necesidad de reforzar el uso de apoyos visuales y estructurar mejor la enseñanza del uso de sistemas aumentativos y alternativos de comunicación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778179553271-xjxan9frn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo del producto final de mi situación de aprendizaje, centrada en la mejora de la comunicación funcional en alumnado con necesidades específicas de apoyo educativo, propongo el uso de la herramienta digital <strong>Canva.</strong></p>\n<p>El objetivo principal de esta herramienta es crear apoyos visuales como rutinas, secuencias, historias sociales y tableros de comunicación que faciliten la comprensión y expresión del alumnado con dificultades en el lenguaje oral, favoreciendo así su participación activa en el aula.</p>\n<p>He seleccionado esta herramienta por su gran versatilidad, ya que permite diseñar materiales visuales de forma sencilla e intuitiva, adaptándolos a las necesidades concretas del alumnado. Además, ofrece múltiples recursos gráficos (iconos, imágenes, pictogramas) que favorecen la accesibilidad cognitiva.</p>\n<p>En cuanto al contexto, se trata de una herramienta accesible en el centro, que puede utilizarse tanto por el profesorado como por el propio alumnado en función de su nivel. En mi caso, su uso se plantea principalmente como herramienta de creación docente, aunque también puede utilizarse de forma guiada con el alumnado.</p>\n<p>Por otro lado, considero que es especialmente adecuada para Educación Infantil y alumnado con necesidades específicas, ya que permite estructurar la información de manera visual, facilitando la anticipación, la comprensión de rutinas y la comunicación funcional.</p>\n<p>Esta propuesta surge a partir de la reflexión sobre mi práctica docente, en la que detecté la necesidad de reforzar el uso de apoyos visuales y estructurar mejor la enseñanza del uso de sistemas aumentativos y alternativos de comunicación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778179793878-1in2740z6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de contenido</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Herramientas de contenido</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778179793878-1in2740z6</odePageId>
+      <odeBlockId>block-1778179796301-g3lsnpx8o</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778179793878-1in2740z6</odePageId>
+          <odeBlockId>block-1778179796301-g3lsnpx8o</odeBlockId>
+          <odeIdeviceId>idevice-1778179796299-qgjh5dgf4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La selección y organización de recursos digitales constituye un elemento fundamental dentro de esta Situación de Aprendizaje, ya que permite <strong>facilitar el acceso a materiales visuales, herramientas de comunicación y apoyos adaptados </strong>a las necesidades del alumnado.</p>
+<p>Con el objetivo de favorecer una práctica educativa inclusiva y accesible, se han diseñado dos espacios de curación de contenidos digitales dirigidos tanto al alumnado como al profesorado. Ambos recursos recopilan materiales y herramientas útiles para trabajar la comunicación funcional, el uso de apoyos visuales y el desarrollo de la competencia digital en Educación Infantil.</p>
+<p>La organización visual de estos contenidos facilita su consulta, su aplicación en el aula y el acceso a recursos adaptados que contribuyen a mejorar la participación, la autonomía y el aprendizaje del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778179796299-qgjh5dgf4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La selección y organización de recursos digitales constituye un elemento fundamental dentro de esta Situación de Aprendizaje, ya que permite <strong>facilitar el acceso a materiales visuales, herramientas de comunicación y apoyos adaptados </strong>a las necesidades del alumnado.</p>\n<p>Con el objetivo de favorecer una práctica educativa inclusiva y accesible, se han diseñado dos espacios de curación de contenidos digitales dirigidos tanto al alumnado como al profesorado. Ambos recursos recopilan materiales y herramientas útiles para trabajar la comunicación funcional, el uso de apoyos visuales y el desarrollo de la competencia digital en Educación Infantil.</p>\n<p>La organización visual de estos contenidos facilita su consulta, su aplicación en el aula y el acceso a recursos adaptados que contribuyen a mejorar la participación, la autonomía y el aprendizaje del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778179793878-1in2740z6</odePageId>
+      <odeBlockId>block-1778179849667-9yx0irgj5</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778179793878-1in2740z6</odePageId>
+          <odeBlockId>block-1778179849667-9yx0irgj5</odeBlockId>
+          <odeIdeviceId>idevice-1778179849665-5mt721els</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/maestraespecial27/mi-padlet-destacado-kaej7vmiauv7wieh" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778179793878-1in2740z6</odePageId>
+      <odeBlockId>block-1778179879777-kdjeln3lx</odeBlockId>
+      <blockName>Symbaloo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778179793878-1in2740z6</odePageId>
+          <odeBlockId>block-1778179879777-kdjeln3lx</odeBlockId>
+          <odeIdeviceId>idevice-1778179879777-exv80pp32</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.symbaloo.com/home/mix/13eOcXKQbh" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778179793878-1in2740z6</odePageId>
+      <odeBlockId>block-1778180001418-9tfqye67c</odeBlockId>
+      <blockName>Symbaloo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778179793878-1in2740z6</odePageId>
+          <odeBlockId>block-1778180001418-9tfqye67c</odeBlockId>
+          <odeIdeviceId>idevice-1778180001416-s7y4idb7i</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778180001416-s7y4idb7i" title="" href="{{context_path}}/content/resources/symbaloo.PNG" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/symbaloo.PNG" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778180001416-s7y4idb7i","img_0":{"img":"{{context_path}}/content/resources/symbaloo.PNG","thumbnail":"{{context_path}}/content/resources/symbaloo.PNG","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778180980763-we06s2z27</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778180980763-we06s2z27</odePageId>
+      <odeBlockId>block-1778181001981-pb5l17cla</odeBlockId>
+      <blockName>Instrumento 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778180980763-we06s2z27</odePageId>
+          <odeBlockId>block-1778181001981-pb5l17cla</odeBlockId>
+          <odeIdeviceId>idevice-1778181001978-79jyp2s8t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para evaluar el desarrollo de la comunicación funcional de mi alumna, se utilizará una lista  de cotejo que permitirá observar de manera sistemática el uso  de apoyos visuales y  sistemas aumentativos y alternativos de comunicación (SAAC). <br />Este instrumento se emplea durante las actividades diarias en el aula, especialmente en  situaciones de uso del comunicador, rutinas y expresión de necesidades. </p>
+<p>La recogida de datos se realizará mediante observación directa, registrando si la alumna  realiza o no cada conducta. <br />Los resultados permitirán identificar el grado de adquisición de las habilidades  comunicativas y ajustar la intervención educativa en función de las necesidades detectadas. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778181001978-79jyp2s8t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para evaluar el desarrollo de la comunicación funcional de mi alumna, se utilizará una lista  de cotejo que permitirá observar de manera sistemática el uso  de apoyos visuales y  sistemas aumentativos y alternativos de comunicación (SAAC). <br />Este instrumento se emplea durante las actividades diarias en el aula, especialmente en  situaciones de uso del comunicador, rutinas y expresión de necesidades. </p>\n<p>La recogida de datos se realizará mediante observación directa, registrando si la alumna  realiza o no cada conducta. <br />Los resultados permitirán identificar el grado de adquisición de las habilidades  comunicativas y ajustar la intervención educativa en función de las necesidades detectadas. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778180980763-we06s2z27</odePageId>
+      <odeBlockId>block-1778181079971-ptffrc0mu</odeBlockId>
+      <blockName>Rúbrica de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778180980763-we06s2z27</odePageId>
+          <odeBlockId>block-1778181079971-ptffrc0mu</odeBlockId>
+          <odeIdeviceId>idevice-1778181079969-k0sfbmxec</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778181079969-k0sfbmxec" title="" href="{{context_path}}/content/resources/Rúbrica de evaluación.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Rúbrica de evaluación.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778181079969-k0sfbmxec","img_0":{"img":"{{context_path}}/content/resources/Rúbrica de evaluación.jpg","thumbnail":"{{context_path}}/content/resources/Rúbrica de evaluación.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778180980763-we06s2z27</odePageId>
+      <odeBlockId>block-1778181342448-n1slsdyo8</odeBlockId>
+      <blockName>Instrumento 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778180980763-we06s2z27</odePageId>
+          <odeBlockId>block-1778181342448-n1slsdyo8</odeBlockId>
+          <odeIdeviceId>idevice-1778181342447-vbn076ujn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Como complemento, se utilizará una rúbrica sencilla para evaluar el nivel de desempeño del  alumnado en el uso del comunicador y apoyos visuales. <br />Este instrumento se aplicará al finalizar algunas actividades clave del proyecto, permitiendo  valorar el progreso del alumnado. </p>
+<p>Los datos recogidos a través de ambos instrumentos serán analizados de forma continua para detectar avances, dificultades y posibles necesidades de adaptación. Estos resultados  no solo servirán para calificar, sino también para mejorar la práctica docente, ajustar las  actividades y favorecer la intervención más personalizada. <br />Además, se tendrán en cuenta posibles variables como el nivel de desarrollo del alumnado,  su grado de autonomía o la necesidad de apoyos adicionales, adaptando la evaluación a sus características individuales. <br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778181342447-vbn076ujn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como complemento, se utilizará una rúbrica sencilla para evaluar el nivel de desempeño del  alumnado en el uso del comunicador y apoyos visuales. <br />Este instrumento se aplicará al finalizar algunas actividades clave del proyecto, permitiendo  valorar el progreso del alumnado. </p>\n<p>Los datos recogidos a través de ambos instrumentos serán analizados de forma continua para detectar avances, dificultades y posibles necesidades de adaptación. Estos resultados  no solo servirán para calificar, sino también para mejorar la práctica docente, ajustar las  actividades y favorecer la intervención más personalizada. <br />Además, se tendrán en cuenta posibles variables como el nivel de desarrollo del alumnado,  su grado de autonomía o la necesidad de apoyos adicionales, adaptando la evaluación a sus características individuales. <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778180980763-we06s2z27</odePageId>
+      <odeBlockId>block-1778181429343-laeydio24</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778180980763-we06s2z27</odePageId>
+          <odeBlockId>block-1778181429343-laeydio24</odeBlockId>
+          <odeIdeviceId>idevice-1778181429342-k37q8byas</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778181429342-k37q8byas" title="" href="{{context_path}}/content/resources/Lista de cotejo.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Lista de cotejo.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778181429342-k37q8byas","img_0":{"img":"{{context_path}}/content/resources/Lista de cotejo.jpg","thumbnail":"{{context_path}}/content/resources/Lista de cotejo.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778181981618-w6wsks7e8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778181981618-w6wsks7e8</odePageId>
+      <odeBlockId>block-1778183388191-0aogtupvb</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778181981618-w6wsks7e8</odePageId>
+          <odeBlockId>block-1778183388191-0aogtupvb</odeBlockId>
+          <odeIdeviceId>idevice-1778183388189-6forvi8np</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Producto final </span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de Aprendizaje destinada al uso de la tecnología para una alumna en su implementación en un SAAC, para el nivel de 5 años de Educación Infantil.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Alicia Serrano  Cereto</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#34dfe5;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
